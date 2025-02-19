@@ -1,0 +1,41 @@
+//
+// Variables
+//
+$primary:       #000000 !default;
+$secondary:     #000000 !default;
+
+$white:         #fff    !default;
+$gray:          #404b57 !default;
+$light-gray:    #9D9D9D !default;
+$black:         #000    !default;
+
+$success:       #00AA32 !default;
+$warning:       #f1b132 !default;
+$error:         #e30700 !default;
+
+
+// General
+$grid-breakpoints: (
+  xs: 0,
+  sm: 576px,
+  md: 768px,
+  lg: 992px,
+  xl: 1200px,
+  xxl: 1400px
+);
+
+$selected-background: #000000 !default;
+$black-background:    #000000 !default;
+
+//Spinner
+$sizing-spinner: 29px !default;
+
+// Buttons
+$btn-primary-color: white !default;
+$btn-primary-bg: $primary !default;
+$btn-primary-bg-hover: #009bd1 !default;
+
+$btn-small-fs: 0.8em;
+$btn-normal-fs: 1em;
+$btn-medium-fs: 1.2em;
+$btn-large-fs: 1.4em;
